@@ -1,13 +1,14 @@
 
+<div align="center">
+<h3>📌Teck Stack</h3>
 
-<h3 align="left">📌Teck Stack</h3>
 
-
-<h3 align="left">🐣 Contact Me 🐣</h3>
+<h3>🐣 Contact Me 🐣</h3>
 <p align="left">
   <span><a href="https://velog.io/@sweet_sumin" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><span>
   <span><img src="https://img.shields.io/badge/sue4869@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
  </p>
+</div>
 <h3 align="left">🌱 My Github 🌱</h3>
 <p align="left">
   <span><a href="https://github.com/sue4869/github-readme-stats" target='_blank'>
