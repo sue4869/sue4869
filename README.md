@@ -4,8 +4,8 @@ Techs that I've used at least once
 
 <h3 align="left">🐣 Contact Me 🐣</h3>
 <p align="left">
-  <span><a href="https://velog.io/@sweet_sumin" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=20C997"/></a><span>
-  <span><img src="https://img.shields.io/badge/sue4869@nave.com-#EA4335?style=flat-square&logo=Gmail&logoColor=#EA4335"/><span>
+  <span><a href="https://velog.io/@sweet_sumin" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><span>
+  <span><img src="https://img.shields.io/badge/sue4869@nave.com-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
  </p>
 <h3 align="left">🌱 My Github 🌱</h3>
 <p align="left">
