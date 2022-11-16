@@ -10,7 +10,7 @@
 </div>
     
 <h3 align="center">🌱 My Github 🌱</h3>
-  <a href="https://github.com/sue4869/github-readme-stats" target='_blank'>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?sue4869=anuraghazra&layout=compact" target='_blank'>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=sue4869&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
    </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
