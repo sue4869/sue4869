@@ -1,7 +1,7 @@
 
 <div align="center">
 <h3 align="center"> 📌 Teck Stack 📌</h3>
-  
+  <span> <img src = "https://img.shields.io/badge/JAVA-blue?logo=JAVA&logoColor=blue"> <img src = "https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=7F52FF"> <img src = "https://img.shields.io/badge/DataBase-MySQL-blue?logo=MySQL&logoColor=blue"> <img src = "https://img.shields.io/badge/DataBase-MongoDB-green?logo=mongoDB&logoColor=green"> <img src="https://img.shields.io/badge/Spring%20Boot-2.6.4-yellow"> <img src = "https://shields.io/badge/DataBase-MariaDB-blue?logo=mariadb&style=flat"> <img src="https://img.shields.io/badge/DataAccess-Spring%20JPA-lightgrey"> <img src = "https://img.shields.io/badge/Architecture-MSA-red" > <span>
 <h3 align="center"> 🐣 Contact Me 🐣 </h3>
 <p>
   <span><a href="https://velog.io/@sweet_sumin" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><span>
