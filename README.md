@@ -10,12 +10,12 @@
 </div>
     
 <h3 align="center">🌱 My Github 🌱</h3>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?sue4869=anuraghazra&layout=compact" target='_blank'>
+  /*<a href="https://github-readme-stats.vercel.app/api/top-langs/?sue4869=anuraghazra&layout=compact" target='_blank'>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=sue4869&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
    </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue4869&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
-    </a>
+    </a>*/
   <a href="https://github.com/Platane/snk" target='_blank'>
     <img align="center" src="https://github.com/sue4869/sue4869/blob/output/github-contribution-grid-snake.svg" />
   </a>
